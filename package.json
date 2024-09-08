@@ -1,9 +1,10 @@
 {
-  "name": "alamin-port",
+  "name": "ansh-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.0",
+    "@emailjs/browser": "^4.4.1",
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
     "@mui/icons-material": "^5.8.4",
