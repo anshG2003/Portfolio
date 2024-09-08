@@ -1,7 +1,7 @@
 import React, { useEffect } from "react"
 import { home } from "../data/dummydata"
 import Typewriter from "typewriter-effect"
-import resume from '../data/images/Ansh Gupta CV.docx'
+import resume from '../data/images/Ansh Gupta CV.pdf'
 
 export const Hero = () => {
   return (

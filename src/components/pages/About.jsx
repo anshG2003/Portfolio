@@ -1,7 +1,7 @@
 import React from "react"
 import { Heading } from "../common/Heading"
 import { about } from "../data/dummydata"
-import resume from '../data/images/Ansh Gupta CV.docx'
+import resume from '../data/images/Ansh Gupta CV.pdf'
 
 export const About = () => {
   return (
